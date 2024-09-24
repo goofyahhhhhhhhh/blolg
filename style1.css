@@ -1,0 +1,50 @@
+body{
+    background-color: black;
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium';
+}
+
+img{
+    width: 65%;
+    height: 500px;
+}
+
+.home_maindiv h2,h3{
+    margin:20px;
+}
+
+.travel_maindiv{
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+
+.travel_maindiv img{
+    width: 100%;
+}
+
+.travel_maindiv hr{
+    width: 230px;
+}
+
+.travel_maindiv h5, .travel_maindiv p{
+    margin-left: 20px;
+}
+
+.movie_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i{
+    float: right;
+}
+
+.movie_text span{
+    color: #ff7700;
+}
